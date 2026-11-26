@@ -1,0 +1,343 @@
+{
+  "vehicle": "Nissan Kicks 2024 Exclusive 1.6 CVT (Brasil)",
+  "referencePage": "https://www.nissan.com.br/veiculos/dst-home/kicks-my24.html",
+  "generatedAt": "2026-11-26",
+  "status": {
+    "model3dGlbAvailable": false,
+    "fullSpin72Or36Available": false,
+    "official360KeyAnglesPerColor": 6,
+    "interiorEquirectangular360Available": false,
+    "missingResources": [
+      "public/assets/vehicle/models/nissan-kicks-2024-exclusive.glb (modelo 3D PBR oficial licenciado indisponível na fonte pública)",
+      "public/assets/vehicle/360/<cor>/frame_01..36 ou 01..72 (a fonte oficial da Nissan Brasil disponibiliza 6 ângulos-chave por cor e não 36/72 quadros contínuos)",
+      "public/assets/vehicle/interior/panorama-equirectangular-360.webp (endpoint oficial vehicle360Interior_images.json retornou lista vazia)"
+    ]
+  },
+  "totalValidatedAssets": 36,
+  "assets": [
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/01.webp",
+      "name": "01.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 66354,
+      "angle": "branco-teto-preto · 315° (Dianteira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/01.png"
+    },
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/02.webp",
+      "name": "02.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 43220,
+      "angle": "branco-teto-preto · 0° (Dianteira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/02.png"
+    },
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/03.webp",
+      "name": "03.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 71812,
+      "angle": "branco-teto-preto · 90° (Lateral direita)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/03.png"
+    },
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/04.webp",
+      "name": "04.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 42680,
+      "angle": "branco-teto-preto · 180° (Traseira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/044.png"
+    },
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/05.webp",
+      "name": "05.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 68120,
+      "angle": "branco-teto-preto · 225° (Traseira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/05.png"
+    },
+    {
+      "file": "/assets/vehicle/360/branco-teto-preto/06.webp",
+      "name": "06.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 62656,
+      "angle": "branco-teto-preto · 270° (Lateral esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/branco-teto-preto/06.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/01.webp",
+      "name": "01.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 67740,
+      "angle": "cinza-grafite-teto-preto · 315° (Dianteira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/01.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/02.webp",
+      "name": "02.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 43660,
+      "angle": "cinza-grafite-teto-preto · 0° (Dianteira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/02.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/03.webp",
+      "name": "03.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 73314,
+      "angle": "cinza-grafite-teto-preto · 90° (Lateral direita)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/03.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/04.webp",
+      "name": "04.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 42758,
+      "angle": "cinza-grafite-teto-preto · 180° (Traseira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/04.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/05.webp",
+      "name": "05.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 66900,
+      "angle": "cinza-grafite-teto-preto · 225° (Traseira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/05.png"
+    },
+    {
+      "file": "/assets/vehicle/360/cinza-grafite-teto-preto/06.webp",
+      "name": "06.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 63678,
+      "angle": "cinza-grafite-teto-preto · 270° (Lateral esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/cinza-grafite-teto-preto/06.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/01.webp",
+      "name": "01.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 74542,
+      "angle": "vermelho-teto-preto · 315° (Dianteira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/01.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/02.webp",
+      "name": "02.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 47626,
+      "angle": "vermelho-teto-preto · 0° (Dianteira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/02.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/03.webp",
+      "name": "03.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 81146,
+      "angle": "vermelho-teto-preto · 90° (Lateral direita)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/03.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/04.webp",
+      "name": "04.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 46776,
+      "angle": "vermelho-teto-preto · 180° (Traseira)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/04.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/05.webp",
+      "name": "05.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 73278,
+      "angle": "vermelho-teto-preto · 225° (Traseira 3/4 esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/05.png"
+    },
+    {
+      "file": "/assets/vehicle/360/vermelho-teto-preto/06.webp",
+      "name": "06.webp",
+      "format": "WEBP",
+      "resolution": "1160x696",
+      "bytes": 71500,
+      "angle": "vermelho-teto-preto · 270° (Lateral esquerda)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-my23/360/vermelho-teto-preto/06.png"
+    },
+    {
+      "file": "/assets/vehicle/details/camera_traseira.webp",
+      "name": "camera_traseira.webp",
+      "format": "WEBP",
+      "resolution": "1200x937",
+      "bytes": 204184,
+      "angle": "Display Visão 360° Inteligente + MOD",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/camera_traseira.webp"
+    },
+    {
+      "file": "/assets/vehicle/details/conforto_porta_mala.webp",
+      "name": "conforto_porta_mala.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 64126,
+      "angle": "Detalhe porta-malas",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/conforto_porta_mala.webp"
+    },
+    {
+      "file": "/assets/vehicle/details/detalhe_grade.webp",
+      "name": "detalhe_grade.webp",
+      "format": "WEBP",
+      "resolution": "3200x1800",
+      "bytes": 585240,
+      "angle": "Detalhe frontal — Grade V-Motion e Faróis Full LED",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/detalhe_grade.webp"
+    },
+    {
+      "file": "/assets/vehicle/details/detalhe_traseira.webp",
+      "name": "detalhe_traseira.webp",
+      "format": "WEBP",
+      "resolution": "3200x1800",
+      "bytes": 491702,
+      "angle": "Detalhe traseiro — Lanternas LED",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/detalhe_traseira.webp"
+    },
+    {
+      "file": "/assets/vehicle/details/porta_mala.webp",
+      "name": "porta_mala.webp",
+      "format": "WEBP",
+      "resolution": "3200x1800",
+      "bytes": 2221120,
+      "angle": "Porta-malas 432 litros aberto",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/porta_mala.webp"
+    },
+    {
+      "file": "/assets/vehicle/details/tecnologia_camera_traseira.webp",
+      "name": "tecnologia_camera_traseira.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 48364,
+      "angle": "Detalhe câmera traseira",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/tecnologia_camera_traseira.webp"
+    },
+    {
+      "file": "/assets/vehicle/exterior/ambientada_frontal.webp",
+      "name": "ambientada_frontal.webp",
+      "format": "WEBP",
+      "resolution": "3200x1800",
+      "bytes": 1296254,
+      "angle": "Perspectiva frontal 3/4 ambientada (Branco Diamond c/ Teto Preto)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/ambientada_frontal.webp"
+    },
+    {
+      "file": "/assets/vehicle/exterior/ambientada_traseira.webp",
+      "name": "ambientada_traseira.webp",
+      "format": "WEBP",
+      "resolution": "3200x1800",
+      "bytes": 1347194,
+      "angle": "Perspectiva traseira 3/4 ambientada",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/ambientada_traseira.webp"
+    },
+    {
+      "file": "/assets/vehicle/exterior/branco_teto_preto.webp",
+      "name": "branco_teto_preto.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 33812,
+      "angle": "Estúdio Branco Diamond c/ Teto Preto",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/branco_teto_preto.webp"
+    },
+    {
+      "file": "/assets/vehicle/exterior/exclusive_cvt.webp",
+      "name": "exclusive_cvt.webp",
+      "format": "WEBP",
+      "resolution": "600x360",
+      "bytes": 55300,
+      "angle": "Estúdio versão Exclusive CVT",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/versoes/Exclusive_CVT.webp"
+    },
+    {
+      "file": "/assets/vehicle/exterior/exclusive_vermelho_teto_preto.webp",
+      "name": "exclusive_vermelho_teto_preto.webp",
+      "format": "WEBP",
+      "resolution": "1200x801",
+      "bytes": 139836,
+      "angle": "Perspectiva frontal 3/4 estúdio (Vermelho Malbec c/ Teto Preto)",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/exclusive_vermelho_teto_preto.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/banco_bose_personal_sound.webp",
+      "name": "banco_bose_personal_sound.webp",
+      "format": "WEBP",
+      "resolution": "1200x937",
+      "bytes": 242784,
+      "angle": "Encosto do motorista BOSE® Personal Plus",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/galeria/banco_bose_personal_sound.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/conforto_apoio_de_braco.webp",
+      "name": "conforto_apoio_de_braco.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 27990,
+      "angle": "Console central e apoio de braço",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/conforto_apoio_de_braco.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/conforto_ar_condicionado.webp",
+      "name": "conforto_ar_condicionado.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 39296,
+      "angle": "Ar-condicionado automático digital",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/conforto_ar_condicionado.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/conforto_assentos_zero_gravidade.webp",
+      "name": "conforto_assentos_zero_gravidade.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 37964,
+      "angle": "Bancos dianteiros Zero Gravity®",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/conforto_assentos_zero_gravidade.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/entretenimento_painel.webp",
+      "name": "entretenimento_painel.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 34704,
+      "angle": "Painel 7\" + Nissan Connect 8\" + Volante",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/entretenimento_painel.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/entretenimento_sistema_audio_bose.webp",
+      "name": "entretenimento_sistema_audio_bose.webp",
+      "format": "WEBP",
+      "resolution": "450x299",
+      "bytes": 40672,
+      "angle": "Sistema de som BOSE® Personal Plus",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/entretenimento_sistema_audio_bose.webp"
+    },
+    {
+      "file": "/assets/vehicle/interior/exclusive_acabamento_premium.webp",
+      "name": "exclusive_acabamento_premium.webp",
+      "format": "WEBP",
+      "resolution": "1920x1080",
+      "bytes": 221632,
+      "angle": "Cabine completa Exclusive acabamento premium",
+      "origin": "https://www.nissan-cdn.net/content/dam/Nissan/br/site/veiculos/novo-kicks-24/DDT/Exclusive_cvt_pack_acab_premium_preto.webp"
+    }
+  ]
+}
